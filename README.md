@@ -35,3 +35,4 @@ Desktop application for NFT minting automation and wallet management.
 ## Need Help?
 
 Join our Discord community for support and updates.
+ 
