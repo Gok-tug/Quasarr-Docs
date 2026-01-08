@@ -12,16 +12,16 @@ Quasarr Bot is a Discord bot that tracks and analyzes crypto and blockchain proj
 2. The bot is already active in designated channels
 3. You will receive notifications based on channel settings
 
-## Available Monitors
+## Features
 
-| Monitor | What It Tracks |
-|---------|----------------|
-| Tweet Scanner | Important tweets from key crypto accounts |
-| NFT Ordinals | New and trending NFT and Ordinals projects |
-| Investment | Funding events and investments |
+Quasarr Bot provides:
+
+- **Monitors** - Real time tracking of crypto projects and market events
+- **Reports** - Daily, weekly and monthly analysis reports
+- **Changed Profiles** - Track when key accounts update their profiles
 
 ## Next Steps
 
-- Learn about [Monitors](monitors.md)
-- Check [Reports](reports.md)
-- Explore [Changed Profiles](changed-profiles.md)
+- [Monitors](monitors.md) - Learn about all available monitors
+- [Reports](reports.md) - Understand the reporting system
+- [Changed Profiles](changed-profiles.md) - Track profile changes
