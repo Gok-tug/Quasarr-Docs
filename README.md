@@ -1,5 +1,7 @@
 # Welcome to Quasarr
 
+![Quasarr Banner](.gitbook/assets/banner.png)
+
 Quasarr provides powerful tools for crypto operations. Choose your product below.
 
 ---
@@ -32,7 +34,6 @@ Desktop application for NFT minting automation and wallet management.
 
 ---
 
-## Need Help?
+## Connect With Us
 
-Join our Discord community for support and updates.
- 
+🌐 [Website](https://quasarr.xyz/) • 𝕏 [X](https://x.com/QuasarrLabs) • 💬 [Discord](https://discord.com/invite/8rJ4s73eZ5)
