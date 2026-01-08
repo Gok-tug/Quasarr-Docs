@@ -41,9 +41,9 @@ Click **Execute All** to run every task in the group at once.
 | Status | Meaning |
 |--------|---------|
 | Ready | Task is configured and waiting to run |
-| Simulating | Task is being simulated before execution |
-| Scheduled | Task is queued for execution |
-| Failed | An error occurred during execution |
+| Simulating | Task is being simulated before sending |
+| Scheduled | Task is queued to send transaction |
+| Failed | An error occurred or transaction failed |
 | Cancelled | Task was stopped by user |
 
 ## Stopping Tasks
