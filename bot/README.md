@@ -18,10 +18,7 @@ Quasarr Bot is a Discord bot that tracks and analyzes crypto and blockchain proj
 |---------|----------------|
 | Tweet Scanner | Important tweets from key crypto accounts |
 | NFT Ordinals | New and trending NFT and Ordinals projects |
-| Runes | Newly minted runes in real time |
-| Pump.fun | Tokens created on Pump.fun |
 | Investment | Funding events and investments |
-| Meme | Viral memes and events |
 
 ## Next Steps
 
