@@ -7,8 +7,6 @@
 * [Getting Started](bot/README.md)
 * [Monitors](bot/monitors.md)
   * [Early Projects](bot/early-projects.md)
-  * [Runes Monitor](bot/runes-monitor.md)
-  * [Pump.Fun Monitor](bot/pumpfun-monitor.md)
   * [Investment Monitor](bot/investment-monitor.md)
 * [Reports](bot/reports.md)
 * [Changed Profiles](bot/changed-profiles.md)
