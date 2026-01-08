@@ -1,20 +1,27 @@
 # Disclaimer
 
-## General Information
+The information provided from the bot is generated automatically to highlight potential profitable projects at early stages. Please note that this content is not investment advice and should not be considered as such.
 
-The information provided by Quasarr is for general informational purposes only. All information is provided in good faith. We make no representation or warranty of any kind regarding the accuracy or completeness of any information.
+## No Investment Advice
 
-## Not Financial Advice
+While every effort is made to ensure the accuracy of the data, automated recommendations may not always result in profitable outcomes. Users are strongly advised to conduct their own research and due diligence before making any investment decisions.
 
-Nothing in our products or documentation constitutes financial, investment or trading advice. You should always do your own research before making any investment decisions.
+## Risk Acknowledgment
 
-## Use at Your Own Risk
+By using this platform, you acknowledge and agree that the platform and its creators are not responsible for any financial losses or damages incurred as a result of following the provided information.
 
-Quasarr tools interact with blockchain networks. Transactions are irreversible. You are responsible for:
-- Securing your private keys
-- Verifying transaction details before execution
-- Understanding gas costs and network fees
+## General Warning
 
-## No Liability
+Investments carry risks and past performance does not guarantee future results.
 
-Quasarr is not liable for any loss or damage arising from your use of our products or reliance on any information provided.
+---
+
+## Desktop Application
+
+For users of Quasarr Desktop:
+
+- Private keys are encrypted and stored locally on your device
+- You are responsible for securing your wallet passwords
+- Transactions on blockchain networks are irreversible
+- Always verify transaction details before execution
+- We are not liable for funds lost due to user error or compromised security

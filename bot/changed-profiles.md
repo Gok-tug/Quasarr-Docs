@@ -1,32 +1,32 @@
 # Changed Profiles
 
-Track profile changes of important accounts in the crypto space.
+A monitor that tracks projects changing their profiles, enabling safer research and investment decisions.
 
 ## What It Tracks
 
-The Changed Profiles monitor detects when key accounts update their:
+The Changed Profiles monitor detects when tracked accounts update their:
 - Profile pictures
 - Display names
 - Bios and descriptions
-- Pinned tweets
+- Handle changes
 
 ## Why It Matters
 
 Profile changes can signal:
 - Upcoming announcements
-- Project pivots
+- Project pivots or rebranding
+- Potential rug pulls (name changes)
 - New partnerships
-- Rebranding efforts
 
-Catching these changes early can give you an edge on upcoming news.
+Catching these changes early gives you an edge on upcoming news or helps you avoid potential scams.
 
-## Notifications
+## Notification Types
 
-When a tracked account changes their profile, you receive an alert showing:
-- What changed
-- Before and after comparison
-- Link to the account
+### Standard Notifications
+Basic alerts when tracked accounts change their profiles.
 
-## Tracked Accounts
+### Detailed Tracking
+For major projects, the monitor provides more detailed tracking including monitoring of biographies and profile pictures with before/after comparisons.
 
-The system tracks major influencers, project founders and notable crypto accounts. The list is curated and updated regularly.
+### Handle Checker
+A history check feature for a quick overview of an account's previous handles and names.

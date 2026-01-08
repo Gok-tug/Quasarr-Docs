@@ -1,27 +1,18 @@
 # Reports
 
-Quasarr generates periodic reports to help you stay informed about market activity and trends.
+Daily, weekly and monthly analyses are conducted on our extensive database and reports are generated based on these analyses.
 
-## Daily Reports
+## Report Types
 
-Get a summary of the most important events from the past 24 hours:
-- Top trending projects
-- Significant investments
-- Notable tweets and discussions
-- New project launches
+### Daily Reports
+Summary of the most important events from the past 24 hours including trending projects, significant investments and notable discussions.
 
-## Weekly Summaries
+### Weekly Reports
+Broader view of the week including performance of tracked projects, funding rounds and emerging trends.
 
-Weekly reports provide a broader view:
-- Weekly performance of tracked projects
-- Funding rounds and investments
-- Community growth metrics
-- Emerging trends
+### Monthly Reports
+Comprehensive analysis of monthly trends, top performing categories and long term patterns.
 
-## How to Access
+## Access
 
-Reports are posted automatically in designated Discord channels. Check with your server admin for the reports channel.
-
-## Report Notifications
-
-Enable notifications for the reports channel to never miss an update.
+Reports are posted automatically in designated Discord channels. Enable notifications for the reports channel to never miss an update.
