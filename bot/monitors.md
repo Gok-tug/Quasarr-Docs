@@ -32,9 +32,6 @@ Tracks projects gaining traction in the community. See what is trending before i
 ### Investment Monitor
 Tracks significant funding events and investments in the blockchain space. Know when projects receive major funding.
 
-### Meme Monitor
-Scans for memes and viral events. Stay updated on crypto culture and trends.
-
 ## Notification Settings
 
 Channel admins can configure which monitors send alerts to specific channels. Check with your server admin for current settings.
