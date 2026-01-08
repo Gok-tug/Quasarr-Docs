@@ -40,11 +40,13 @@ Click **Execute All** to run every task in the group at once.
 
 | Status | Meaning |
 |--------|---------|
-| Ready | Waiting to run |
-| Scheduled | Queued for execution |
-| Executing | Currently running |
-| Completed | Finished successfully |
-| Failed | Error occurred |
+| Ready | Task is configured and waiting to run |
+| Simulating | Task is being simulated before execution |
+| Scheduled | Task is queued for execution |
+| Executing | Transaction is being sent to the blockchain |
+| Completed | Transaction confirmed successfully |
+| Failed | An error occurred during execution |
+| Cancelled | Task was stopped by user |
 
 ## Stopping Tasks
 
