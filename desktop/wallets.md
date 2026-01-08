@@ -26,11 +26,11 @@ Generate new wallets directly in the app.
 
 1. Select a wallet group
 2. Click **New Wallet**
-3. Enter a password to encrypt the wallet
-4. Optionally add an alias
+3. Enter the number of wallets to create
+4. Optionally set an alias prefix
 5. Click Create
 
-Your new wallet is ready to receive funds.
+Your new wallets are ready to receive funds.
 
 ## Importing Wallets
 
@@ -40,11 +40,10 @@ Bring existing wallets into Quasarr.
 1. Select target group
 2. Click **Import**
 3. Enter the private key
-4. Set a password
-5. Click Import
+4. Click Import
 
 ### Batch Import
-Enter multiple private keys, one per line.
+Enter multiple private keys, one per line. You can also include aliases in the format: `alias,privatekey`
 
 ## Exporting Wallets
 
@@ -52,10 +51,10 @@ Backup your wallets for safekeeping.
 
 1. Select wallets using checkboxes
 2. Click **Export**
-3. Enter your wallet password
-4. Choose save location
+3. Choose save location
+4. File saves with aliases and private keys
 
-**Security Warning:** Export files contain unencrypted private keys. Store securely.
+**Security Warning:** Export files contain private keys. Store securely.
 
 ## Balances
 
@@ -67,5 +66,5 @@ Backup your wallets for safekeeping.
 
 Each wallet has quick action buttons:
 - **Copy address** - Copy to clipboard
-- **Copy private key** - Requires password
+- **Copy private key** - Copy to clipboard
 - **Delete** - Remove from app
