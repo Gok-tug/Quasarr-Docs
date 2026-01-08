@@ -1,6 +1,6 @@
 # Welcome to Quasarr
 
-![Quasarr Banner](.gitbook/assets/banner.png)
+![](.gitbook/assets/banner.png)
 
 Quasarr provides powerful tools for crypto operations. Choose your product below.
 
